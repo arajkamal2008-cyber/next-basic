@@ -1,7 +1,8 @@
-import Image from "next/image";
+import Loops from "@/components/aboutComponents/homeComponents/Loops";
+
 
 export default function Home() {
   return (<>
-  homepage
+  <Loops/>
   </>);
 }
